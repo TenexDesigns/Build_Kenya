@@ -6,7 +6,9 @@ The National Association of Manufacturers (NAM): https://nam.org/
 The Manufacturing Institute: https://themanufacturinginstitute.org/
 The Society of Manufacturing Engineers (SME): https://www.sme.org/
 
-
+For resources to learn more about manufacturing processes, you can consider online courses. The Massachusetts Institute of Technology (MIT) offers a 
+  course called "Fundamentals of Manufacturing Processes" on edX 8. Another course "Introduction: Manufacturing Processes" is available on Alison 9.
+  These courses provide a comprehensive understanding of manufacturing processes and can be a great starting point for anyone interested in manufacturing.
 
 
 
